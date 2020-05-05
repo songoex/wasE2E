@@ -1,0 +1,1 @@
+{"uuid": "05e996c0-e6a9-416d-92ea-dd544dc8a2d0", "children": ["d8a366bb-3853-4e6c-a193-3c6b786b4c15"], "befores": [{"name": "snapshot_writer", "status": "passed", "start": 1588639441836, "stop": 1588639441837}], "afters": [{"name": "snapshot_writer::0", "status": "passed", "start": 1588639477430, "stop": 1588639477436}], "start": 1588639441836, "stop": 1588639477436}
